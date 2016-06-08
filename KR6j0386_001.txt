@@ -1,24 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:23.034111
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:01
 #+TITLE: 佛說大乘聖吉祥持世陀羅尼經
 #+PROPERTY: CBETA_ID T20n1164
 #+PROPERTY: ID KR6j0386
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1164
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0386_T_000-0669c>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0386_T_001-0669c> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1164[Nos.1162,1163,1165]¶
-
- 佛說大乘聖吉祥持世陀羅尼經¶
+No. 1164 [Nos. 1162, 1163, 1165]¶
+佛說大乘聖吉祥持世陀羅尼經¶
 ¶
-西天中印度摩揭陀國那爛陀寺¶
-傳教大師三藏賜紫沙門臣法天¶
-奉　詔譯¶
+西天中印度摩揭陀國那爛陀寺傳教大師三藏賜紫沙門臣法天奉　詔譯¶
 
 如是我聞。一時世尊。在憍睒彌國大棘林中。¶
 與大比丘眾四百五十人俱。皆是眾所知識¶
@@ -243,9 +240,9 @@ No.1164[Nos.1162,1163,1165]¶
 　天人師智一切智
 　到彼岸故離生死¶
 　證無上果成法王
-　我今稱讚佛無畏
+　我今稱讚佛無畏」
 #+END_VERSE
-」¶
+¶
 
 是時阿難陀說是讚已。歡喜踊躍而白佛言。¶
 世尊經名云何。令我云何受持。世尊告阿難¶
